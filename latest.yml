@@ -1,0 +1,8 @@
+version: 2.1.32
+files:
+  - url: CostChef-Setup.exe
+    sha512: w8XvqG9KpKj6wawFX7N8UOZxPRsDGa+9aWz3NzBDenNNJwXOyNbTgpnSCFj3bpcPAGp2CkC2GWZ6xWo1AXbmBA==
+    size: 102144672
+path: CostChef-Setup.exe
+sha512: w8XvqG9KpKj6wawFX7N8UOZxPRsDGa+9aWz3NzBDenNNJwXOyNbTgpnSCFj3bpcPAGp2CkC2GWZ6xWo1AXbmBA==
+releaseDate: '2026-10-26T19:00:27.402Z'
